@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
-  <application></application>
+  <application>my-project-g05</application>
   <version>1</version>
 
   <!--
@@ -16,6 +16,7 @@
 <inbound-services>
 <service>xmpp_message</service>
 </inbound-services>
+
 
   <!--
     HTTP Sessions are disabled by default. To enable HTTP sessions specify:
